@@ -1,6 +1,6 @@
 # Story-AddEng  
 ## Requirements: 
-- 1000 words long
+- 1000 to 3000 words long
 - Incorporates all 5 elements
 
 ## Genre: Undecided 
